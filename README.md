@@ -1,7 +1,7 @@
 BaasBox iOS SDK
 =======
 
-This is the official iOS SDK for [BaasBox](http://www.baasbox.com)
+This is the official Cocoa SDK for [BaasBox](http://www.baasbox.com)
 
 #Installation
 
